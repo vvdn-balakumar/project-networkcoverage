@@ -41,4 +41,4 @@ jobs:
           app-name: 'biceptest-networkcoverage'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3AA328945A704355834D759A26A45027 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F887B7E8A67C43E69538C05E60C4E5EA }}
