@@ -41,4 +41,4 @@ jobs:
           app-name: 'bicepdemo-networkcoverage'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3BF40F61F05844F882928374800996DE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_183BF159E62B4AB1ADABAB3C89227ECE }}
