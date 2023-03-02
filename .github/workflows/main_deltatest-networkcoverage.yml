@@ -41,4 +41,4 @@ jobs:
           app-name: 'deltatest-networkcoverage'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F579167DA71D40E9A27C6AF2049E2079 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E8F037CE68F0489CB323886797B72A4F }}
